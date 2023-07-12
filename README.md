@@ -11,12 +11,12 @@ Add in your dependencies to start using it.
 ## Usage
 
 ```
-  final Color backgroundColor;
-  final double elevation;
-  final Duration insetAnimationDuration;
-  final Curve insetAnimationCurve;
-  final ShapeBorder shape;
-  final Widget child;
+  Color backgroundColor;
+  double elevation;
+  Duration insetAnimationDuration;
+  Curve insetAnimationCurve;
+  ShapeBorder shape;
+  Widget child;
 ```
 
 Different properties that you can change.

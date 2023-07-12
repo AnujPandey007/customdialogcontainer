@@ -1,6 +1,6 @@
 name: fluttercustomdialogcontainer
 description: It can help with size issue of alert box of flutter. It gives bigger size with nice animation.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/AnujPandey007/customdialogcontainer
 
 environment:
